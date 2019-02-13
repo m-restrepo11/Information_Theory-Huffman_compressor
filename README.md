@@ -1,2 +1,2 @@
-# Information_Theory-Huffman_compressor
+# Information Theory - Huffman compressor
 Python implementation of a Huffman compresor for information theory class.
